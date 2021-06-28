@@ -83,6 +83,7 @@ ul li.active a{
     font-size: 70px;
     font-family: pixals;
 }
+
 .button{
        position:  absolute;
        top:65%;
@@ -149,7 +150,7 @@ section .mybutton:hover {
         line-height: 36px;
         text-align: left;
         display: inline-flex;
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 
@@ -159,10 +160,10 @@ section .mybutton:hover {
 
     .features {
         display: flex;
-        flex-direction: column;
-       position: absolute;
-       left: 5%;
-        top: 30%;
+        flex-direction: row;
+        position: relative;
+        left: 5%;
+        top: 70%;
     }
 
     .features figure img {
