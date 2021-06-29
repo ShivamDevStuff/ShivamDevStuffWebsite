@@ -36,7 +36,7 @@ header{
    
 }
 ul{
-    float: right;
+    float:right;
     list-style-type: none;
     margin-top: 25px;
 }
@@ -54,7 +54,7 @@ ul li a{
 }
 ul li a:hover{
     background-color: rgb(255, 255, 255);
-    color: rgb(255, 145, 0);
+    color: rgb(197, 0, 171);
 }
 .logo img{
     float: left;
@@ -64,7 +64,7 @@ ul li a:hover{
 
 ul li.active a{
     background-color:rgb(255, 255, 255);
-    color: rgb(255, 145, 0);
+    color: rgb(197, 0, 171);
 }
 .main{
     max-width: 1200px;

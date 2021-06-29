@@ -32,7 +32,7 @@
  }
  ul li a:hover{
      background-color: #fff;
-     color: #000;
+     color: rgb(197, 0, 171);
  }
  .logo img{
      float: left;
@@ -43,7 +43,7 @@
  }
  ul li.active a{
      background-color: #fff;
-     color: #000;
+     color: rgb(197, 0, 171);
  }
  .main{
      max-width: 1200px;
